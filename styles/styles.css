@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 0 160px;
+}
+
+.nav {
+    background-color: black;
+    height: 40px;
+    margin: 0 auto;
+}
